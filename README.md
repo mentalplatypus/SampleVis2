@@ -6,4 +6,4 @@ A Google Charts chart of how people who had heard about driverless vehicles desc
 
 Also on CodePen: https://codepen.io/mentalplatypus/pen/eYyGEzr
 
-More projects by [David Wang](https://mentalplatypus.github.io/).
+Part of [David Wang's portfolio](https://mentalplatypus.github.io/).
